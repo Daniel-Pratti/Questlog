@@ -1,3 +1,5 @@
+/*Projeto de um Jogo de SuperTrunfo em C para um trabalho de faculdade.*/
+
 #include <stdio.h>
 int main (){
 
